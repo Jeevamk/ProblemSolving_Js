@@ -32,5 +32,13 @@ for(i=0;i<=arr.length;i++) {
 }
 console.log(largest)
 
+# Sum of All Numbers in an Array
+arr =[2,3,6,5,4]
+sum = 0
+for(i=0;i<arr.length;i++){
+    sum +=arr[i]
+}
+console.log(sum)
+
 
       
