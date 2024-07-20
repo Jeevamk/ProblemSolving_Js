@@ -40,5 +40,16 @@ for(i=0;i<arr.length;i++){
 }
 console.log(sum)
 
+# Count the Number of Vowels in a String
+let str = 'hello world'
+let vowels = 'aeiouAEIOU'
+count = 0
+for(i=0;i<str.length;i++){
+    if(vowels.includes(str[i])){
+        count++
+    }
+    
+}
+console.log(count)
 
       
