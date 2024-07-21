@@ -19,8 +19,7 @@ c) str  = "hello world"
 console.log(reversed)
 
 # Find the Largest Number in an Array
-
-   arr = [2,4,1,5,4,3]
+arr = [2,4,1,5,4,3]
 // large = arr.sort((a,b)=>b-a)
 // console.log(large[0])
 
