@@ -1,8 +1,21 @@
-# ProblemSolving_Js ✨
+# JavaScript Problem-Solving Exercises ✨
 
-# Reverse a String,
-a) name = 'jeeva mk'
-   console.log(name.split("").reverse().join(""))
+## Table of Contents
+1. [Reverse a String](#reverse-a-string)
+2. [Find the Largest Number in an Array](#find-the-largest-number-in-an-array)
+3. [Sum of All Numbers in an Array](#sum-of-all-numbers-in-an-array)
+4. [Count the Number of Vowels in a String](#count-the-number-of-vowels-in-a-string)
+5. [Prime Number or Not](#prime-number-or-not)
+6. [Palindrome](#palindrome)
+7. [Sort an Array](#sort-an-array)
+8. [Factorial](#factorial)
+
+## Reverse a String
+
+### Method 1
+```javascript
+a) let name = 'jeeva mk';
+console.log(name.split("").reverse().join(""));
 
 b) str = 'hello world'
  reversed = ''
