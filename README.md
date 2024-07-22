@@ -1,6 +1,6 @@
 # ProblemSolving_Js ✨
 
-# Reverse a String ,
+# Reverse a String,
 a) name = 'jeeva mk'
    console.log(name.split("").reverse().join(""))
 
