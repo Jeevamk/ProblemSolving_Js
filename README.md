@@ -11,13 +11,10 @@
 8. [Factorial](#factorial)
 
 ## Reverse a String
-
-### Method 1
-```javascript
 a) let name = 'jeeva mk';
-console.log(name.split("").reverse().join(""));```
+console.log(name.split("").reverse().join("")); 
 
-### Method 2
+ # Method 2
  str = 'hello world'
  reversed = ''
  for(let c of str) {
@@ -25,7 +22,7 @@ console.log(name.split("").reverse().join(""));```
   }
  console.log(reversed)
 
-### Method 3
+# Method 3
 str  = "hello world"
    reversed = ''
    for (i=str.length-1;i>=0;i--) {
