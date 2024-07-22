@@ -51,4 +51,13 @@ for(i=0;i<str.length;i++){
 }
 console.log(count)
 
+# Prime number or not
+let number = 7
+let prime = true;
+for ( i=2 ; i<number ; i++ ){
+    if (number % i == 0){
+        prime = false
+    }
+}
+console.log(prime?"Prime Number":"Not a prime number")
       
