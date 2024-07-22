@@ -15,7 +15,7 @@
 ### Method 1
 ```javascript
 a) let name = 'jeeva mk';
-console.log(name.split("").reverse().join(""));
+console.log(name.split("").reverse().join(""));```
 
 ### Method 2
  str = 'hello world'
