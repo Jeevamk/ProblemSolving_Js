@@ -76,7 +76,7 @@ console.log(prime?"Prime Number":"Not a prime number")
 # Palindrom
 // input = "assa"
 // output = "its palindrome"
-// -------------------------------------------
+// ------------------------------------------
 const input = "asspa"
 let str = ''
 for ( i=input.length-1 ; i >= 0 ; i-- ){
